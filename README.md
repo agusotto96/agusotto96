@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Otto
-- 👀 I’m interested in web development, distributed systems, bioinformatics, developer tools, and programming languages.
+- 👀 I’m interested in web development, distributed systems, bioinformatics, developer tools, videogames and programming languages.
 - 🌱 I’m currently learning about Go, htmx, Rust, and other technologies.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: agotto96@gmail.com
